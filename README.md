@@ -2,7 +2,7 @@
 
 Effective date: 1 December 2023.
 
-This Privacy Policy governs the manner in which Shaypram Developers collects, uses, maintains, and discloses information collected from users (referred to as "User" or "you") of the 'Let's Get It Done!' mobile application (referred to as "App").
+This Privacy Policy governs the manner in which Shaypram Developers collects, uses, maintains, and discloses information collected from users (referred to as "User" or "you") of the 'Task Note' mobile application (referred to as "App").
 
 Information Collection
 Shaypram Developers does not collect any personal or sensitive information from users of the App. We respect your privacy and do not require you to provide any personal information while using our App. The App does not require an internet connection to function and operates solely on your device.
